@@ -34,14 +34,7 @@
 ---
 
 ### GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codenesia-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codenesia-dev&theme=tokyonight&layout=compact&hide_border=true" height="150" />
-</p>
 
 ![Github Streak](https://nirzak-streak-stats.vercel.app/?user=Codenesia-dev&theme=tokyonight&hide_border=true)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Codenesia-dev&icon=2&color=0" alt="visitor count" />
-</p>
