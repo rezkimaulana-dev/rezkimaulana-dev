@@ -1,5 +1,5 @@
 # Rezki Maulana
-**Software Engineer | Web Developer | Game Developer | Graphic Designer**
+**Software Engineer | Network Engineer | Web Developer | Game Developer | Graphic Designer**
 
 ---
 
