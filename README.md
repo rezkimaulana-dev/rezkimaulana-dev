@@ -38,9 +38,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 
 ---
-
-### GitHub Metrics
-
-![Github Streak](https://nirzak-streak-stats.vercel.app/?user=Codenesia-dev&theme=tokyonight&hide_border=true)
-
----
